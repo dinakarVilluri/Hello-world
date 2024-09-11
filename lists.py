@@ -12,7 +12,6 @@ empty = []
 for i in empty:
     print("I am empty")
 
-
 # Update/Insert - List 
 
 myList = [1,2,3,4,5,6,7]
@@ -50,8 +49,6 @@ while (True):
     average = total / count
 					
 print('Average:', average)
-
-
 
 numlist = list() 
 while (True):
